@@ -42,4 +42,4 @@ In the future, I should take note to reassign set widths and heights to auto.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mofe620)
+- Frontend Mentor - [@Mofe620](https://www.frontendmentor.io/profile/Mofe620)
