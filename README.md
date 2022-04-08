@@ -37,6 +37,7 @@ Users should be able to:
 ### What I learned
 
 I found it particularly difficult effecting the media query for mobile screens. Took hours but I got it in the end.
+In the future, I should take note to reassign set widths and heights to auto.
 
 ## Author
 
