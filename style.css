@@ -98,7 +98,7 @@ footer {
     margin-top: 4em;
     color: azure;
 }
-@media (max-width:375px) {
+@media (max-width:480px) {
     .container {
         flex-direction: column; 
         min-width: 70%;
